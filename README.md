@@ -2,7 +2,7 @@
 
 I am a lecturer currently working at kea.dk teaching programming. 
 
-I'm really into mentoring disadvantaged groups, teaching technology, and having fun with software. 
+I'm into data visualisation, teaching software development, and weird/quirky projects. 
 
 🎉 [Portfolio](https://benna100.github.io/portfolio/)
 
