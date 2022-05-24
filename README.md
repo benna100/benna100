@@ -9,3 +9,5 @@ I'm into data visualisation, teaching computer science, and creating weird/quirk
 📰 [Newsletter](https://tinyletter.com/benjamin_dals_hughes)
 
 🚂 [Voice controlled Duplo train ](https://www.youtube.com/watch?v=t65X-cs55qM)
+
+*please dont look at my commit messages (they do not represent my professional work haha)*
